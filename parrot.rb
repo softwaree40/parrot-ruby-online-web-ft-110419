@@ -6,7 +6,7 @@ def parrot
   
 end
 def parrot(phrase = " ")
-    phrase
+    puts phrase
    
   
 end
